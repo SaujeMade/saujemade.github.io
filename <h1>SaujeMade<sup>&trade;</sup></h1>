@@ -22,17 +22,17 @@
     }
     .symbols {
       font-size: 1.8em;
-      color: white;
       margin-top: 40px;
     }
-    .leaf { color: #3cb371; }    /* Green leaf */
-    .dove { color: white; }      /* White dove */
-    .stars { color: #ffe699; }   /* Subtle gold stars */
+    .leaf { color: #3cb371; }
+    .dove { color: white; }
+    .stars { color: #ffe699; }
   </style>
 </head>
 <body>
-  <h1>SaujeMade™</h1>
+  <h1>SaujeMade<sup>&trade;</sup></h1>
   <p>— where Beauty is Blessed —</p>
+  <p>Coming Soon</p>
   <div class="symbols">
     <span class="leaf">🌿</span>
     <span class="dove">🕊️</span>
