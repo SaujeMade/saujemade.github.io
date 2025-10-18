@@ -1,2 +1,2 @@
 # saujemade.github.io
-Sauje Made-Where Beauty is Blessed 
+Sauje Made-Inspires by Faith,Where Beauty is Blessed 
